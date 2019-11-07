@@ -14,8 +14,8 @@ import {
     CLEAR_CURRENT,
     CLEAR_FILTER,
     CONTACT_ERROR,
-    SET_ALERT,
-    REMOVE_ALERT
+    // SET_ALERT,
+    // REMOVE_ALERT
 } from '../Type';
 
 const ContactState = props => {

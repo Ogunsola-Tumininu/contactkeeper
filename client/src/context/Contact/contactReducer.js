@@ -9,8 +9,8 @@ import {
     CONTACT_ERROR,
     CLEAR_CURRENT,
     CLEAR_FILTER,
-    SET_ALERT,
-    REMOVE_ALERT
+    // SET_ALERT,
+    // REMOVE_ALERT
 } from '../Type';
 
 export default (state, action) => {
